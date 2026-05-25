@@ -1,0 +1,77 @@
+[2026-05-22 14:47:27.229] INFO  ua.uni.visual.Panels -> UI initialized
+[2026-05-22 14:47:27.231] DEBUG ua.uni.visual.Panels -> Canvas 40x30 is ready
+[2026-05-22 14:47:27.231] WARN  ua.uni.visual.Panels -> Autosave is off
+[2026-05-22 14:59:14.598] INFO  ua.uni.visual.Panels -> UI initialized
+[2026-05-22 14:59:14.599] DEBUG ua.uni.visual.Panels -> Canvas 40x30 is ready
+[2026-05-22 14:59:14.599] WARN  ua.uni.visual.Panels -> Autosave is off
+[2026-05-22 14:59:18.211] INFO  ua.uni.visual.Panels -> Grid resized to 40x30
+[2026-05-22 15:00:52.595] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/1
+[2026-05-22 15:00:52.596] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:01:01.892] INFO  ua.uni.visual.Panels -> Grid resized to 40x30
+[2026-05-22 15:01:17.544] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/Desktop/ Михайло1
+[2026-05-22 15:01:17.546] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:01:30.308] INFO  ua.uni.visual.Panels -> Color changed to #8C1919
+[2026-05-22 15:01:41.111] INFO  ua.uni.io.InputOutput -> Project saved: /Users/kiamran/Desktop/ Михайло1
+[2026-05-22 15:01:41.111] INFO  ua.uni.visual.Menu -> Save JSON action executed
+[2026-05-22 15:01:48.161] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/Desktop/ Михайло1
+[2026-05-22 15:01:48.162] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:01:49.969] INFO  ua.uni.visual.Menu -> Canvas cleared via File -> New
+[2026-05-22 15:01:55.144] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/Desktop/ Михайло1
+[2026-05-22 15:01:55.145] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:21:48.482] INFO  ua.uni.visual.Panels -> UI initialized
+[2026-05-22 15:21:48.482] DEBUG ua.uni.visual.Panels -> Canvas 40x30 is ready
+[2026-05-22 15:21:48.482] WARN  ua.uni.visual.Panels -> Autosave is off
+[2026-05-22 15:21:55.857] DEBUG ua.uni.io.InputOutput -> Open project canceled by user
+[2026-05-22 15:21:55.858] DEBUG ua.uni.visual.Menu -> Open JSON canceled
+[2026-05-22 15:21:58.069] INFO  ua.uni.visual.Panels -> Grid resized to 40x30, cell=24px
+[2026-05-22 15:22:00.498] INFO  ua.uni.visual.Menu -> Canvas cleared via File -> New
+[2026-05-22 15:22:07.804] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/1
+[2026-05-22 15:22:07.806] INFO  ua.uni.visual.Panels -> Grid resized to 40x30, cell=18px
+[2026-05-22 15:22:07.807] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:22:15.485] INFO  ua.uni.visual.Panels -> Grid resized to 40x30, cell=28px
+[2026-05-22 15:22:28.253] INFO  ua.uni.visual.Panels -> Grid resized to 40x30, cell=22px
+[2026-05-22 15:22:37.971] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/1
+[2026-05-22 15:22:37.971] INFO  ua.uni.visual.Panels -> Grid resized to 40x30, cell=18px
+[2026-05-22 15:22:37.972] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:22:47.852] INFO  ua.uni.visual.Panels -> Grid resized to 40x30, cell=39px
+[2026-05-22 15:22:48.603] INFO  ua.uni.visual.Panels -> Color changed to #C0C0C0
+[2026-05-22 15:22:59.087] INFO  ua.uni.io.InputOutput -> Project saved: /Users/kiamran/5
+[2026-05-22 15:22:59.087] INFO  ua.uni.visual.Menu -> Save JSON action executed
+[2026-05-22 15:23:01.799] INFO  ua.uni.visual.Menu -> Canvas cleared via File -> New
+[2026-05-22 15:23:08.171] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/1
+[2026-05-22 15:23:08.172] INFO  ua.uni.visual.Panels -> Grid resized to 40x30, cell=18px
+[2026-05-22 15:23:08.172] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:23:17.703] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/5
+[2026-05-22 15:23:17.704] INFO  ua.uni.visual.Panels -> Grid resized to 40x30, cell=39px
+[2026-05-22 15:23:17.705] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:38:07.954] INFO  ua.uni.visual.Panels -> UI initialized
+[2026-05-22 15:38:07.954] DEBUG ua.uni.visual.Panels -> Canvas 40x30 is ready
+[2026-05-22 15:38:07.955] WARN  ua.uni.visual.Panels -> Autosave is off
+[2026-05-22 15:38:11.665] INFO  ua.uni.visual.Panels -> Grid resized to 40x30, cell=26px
+[2026-05-22 15:38:17.781] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/5
+[2026-05-22 15:38:17.783] INFO  ua.uni.visual.Panels -> Grid resized to 40x30, cell=39px
+[2026-05-22 15:38:17.783] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:39:29.658] INFO  ua.uni.visual.Panels -> UI initialized
+[2026-05-22 15:39:29.659] DEBUG ua.uni.visual.Panels -> Canvas 40x30 is ready
+[2026-05-22 15:39:29.659] WARN  ua.uni.visual.Panels -> Autosave is off
+[2026-05-22 15:39:32.362] INFO  ua.uni.visual.Menu -> Canvas cleared via File -> New
+[2026-05-22 15:39:33.180] INFO  ua.uni.visual.Panels -> Color changed to #C0C0C0
+[2026-05-22 15:39:42.897] INFO  ua.uni.io.InputOutput -> Project saved: /Users/kiamran/6
+[2026-05-22 15:39:42.897] INFO  ua.uni.visual.Menu -> Save JSON action executed
+[2026-05-22 15:39:48.649] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/5
+[2026-05-22 15:39:48.651] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:39:55.982] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/6
+[2026-05-22 15:39:55.984] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:41:59.149] INFO  ua.uni.io.InputOutput -> Project saved: /Users/kiamran/Downloads/7
+[2026-05-22 15:41:59.151] INFO  ua.uni.visual.Menu -> Save JSON action executed
+[2026-05-22 15:42:27.431] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/Downloads/7
+[2026-05-22 15:42:27.432] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:42:36.949] INFO  ua.uni.visual.Panels -> Color changed to #8C1919
+[2026-05-22 15:42:50.997] INFO  ua.uni.visual.Panels -> Custom color selected #00CC99
+[2026-05-22 15:43:20.734] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/Downloads/7
+[2026-05-22 15:43:20.735] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:43:37.384] INFO  ua.uni.io.InputOutput -> Project opened: /Users/kiamran/Downloads/7
+[2026-05-22 15:43:37.385] INFO  ua.uni.visual.Menu -> Project loaded from JSON
+[2026-05-22 15:43:53.582] INFO  ua.uni.io.InputOutput -> Project saved: /Users/kiamran/Downloads/8
+[2026-05-22 15:43:53.582] INFO  ua.uni.visual.Menu -> Save JSON action executed
+[2026-05-22 15:44:50.549] INFO  ua.uni.visual.Panels -> Grid resized to 40x30, cell=22px
